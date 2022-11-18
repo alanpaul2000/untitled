@@ -1,5 +1,5 @@
 ///entry point => main function
-///syntax => returntype function() {}
+///syntax => return type function() {}
 void main(){
   print("Hello all");
 }
